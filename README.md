@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
 |  |
 | ------- |
