@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
