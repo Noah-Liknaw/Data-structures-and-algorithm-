@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0661-image-smoother) |
+| [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
@@ -130,4 +131,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
