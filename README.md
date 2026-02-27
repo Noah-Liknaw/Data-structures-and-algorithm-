@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
