@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 ## Recursion
