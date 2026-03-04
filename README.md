@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
