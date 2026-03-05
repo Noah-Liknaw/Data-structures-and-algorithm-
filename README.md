@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
