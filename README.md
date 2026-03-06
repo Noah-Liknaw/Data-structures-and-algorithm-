@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
