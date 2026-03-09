@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0661-image-smoother) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
