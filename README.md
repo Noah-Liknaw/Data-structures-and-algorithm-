@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0661-image-smoother) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
