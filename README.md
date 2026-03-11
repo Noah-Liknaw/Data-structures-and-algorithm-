@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0283-move-zeroes) |
