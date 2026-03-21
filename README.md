@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1920-build-array-from-permutation) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -235,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
