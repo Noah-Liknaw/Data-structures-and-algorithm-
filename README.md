@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1089-duplicate-zeros) |
+| [1109-corporate-flight-bookings](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
