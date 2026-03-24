@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
+| [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1109-corporate-flight-bookings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
+| [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
