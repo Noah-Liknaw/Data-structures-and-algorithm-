@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [1109-corporate-flight-bookings](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
