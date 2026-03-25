@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Prefix Sum
