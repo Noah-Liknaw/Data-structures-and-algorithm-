@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Sweep Line
 |  |
 | ------- |
