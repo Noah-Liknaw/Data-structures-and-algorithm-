@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
