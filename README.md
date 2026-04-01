@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0661-image-smoother) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
+| [0978-longest-turbulent-subarray](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1089-duplicate-zeros) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -67,10 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
@@ -86,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -135,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
@@ -154,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -166,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -194,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0088-merge-sorted-array) |
@@ -204,6 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
@@ -215,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0203-remove-linked-list-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -268,15 +283,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Sweep Line
 |  |
 | ------- |
@@ -285,4 +304,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0978-longest-turbulent-subarray](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0978-longest-turbulent-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
