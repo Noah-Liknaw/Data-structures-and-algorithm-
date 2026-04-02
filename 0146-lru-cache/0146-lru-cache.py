@@ -4,7 +4,6 @@ class LRUCache:
         self.capacity = capacity
         self.cache = {}
 
-        # initialize dummy head/tail
         self.head = type("Node", (), {})()
         self.tail = type("Node", (), {})()
 
@@ -30,8 +29,8 @@ class LRUCache:
         if key not in self.cache:
             return -1
         node = self.cache[key]
-        self.removeNode(node)      # FIX: add self
-        self.insertNode(node)      # FIX: add self
+        self.removeNode(node)      
+        self.insertNode(node)      
         return node.val
 
     def put(self, key: int, value: int) -> None:
@@ -46,7 +45,6 @@ class LRUCache:
                 self.removeNode(lru)
                 del self.cache[lru.key]
 
-            # create node WITHOUT defining a class
             node = type("Node", (), {})()
             node.key = key
             node.val = value
