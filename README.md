@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
