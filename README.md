@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0933-number-of-recent-calls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
