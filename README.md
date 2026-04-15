@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0978-longest-turbulent-subarray) |
 ## Linked List
