@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0933-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
