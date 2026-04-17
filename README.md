@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2390-removing-stars-from-a-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
