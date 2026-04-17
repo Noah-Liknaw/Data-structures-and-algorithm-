@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
