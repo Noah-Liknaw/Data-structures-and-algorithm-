@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -398,5 +400,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
