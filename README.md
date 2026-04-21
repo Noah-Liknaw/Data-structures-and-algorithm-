@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1002-find-common-characters) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
