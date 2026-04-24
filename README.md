@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0876-middle-of-the-linked-list) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2089-find-target-indices-after-sorting-array) |
