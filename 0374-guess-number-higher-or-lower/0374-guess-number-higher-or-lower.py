@@ -20,4 +20,4 @@ class Solution:
             else:
                 left = mid + 1
         
-        return -1  # should never reach here
+        return -1  
