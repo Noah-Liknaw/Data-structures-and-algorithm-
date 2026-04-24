@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
+| [0853-car-fleet](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0506-relative-ranks) |
+| [0853-car-fleet](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1122-relative-sort-array) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0853-car-fleet) |
 | [1598-crawler-log-folder](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0853-car-fleet) |
 ## Game Theory
 |  |
 | ------- |
