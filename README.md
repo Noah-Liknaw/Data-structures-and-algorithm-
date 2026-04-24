@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
 | ------- |
