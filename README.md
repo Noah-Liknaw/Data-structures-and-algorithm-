@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
+| [0486-predict-the-winner](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0503-next-greater-element-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 |  |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0978-longest-turbulent-subarray) |
 ## Linked List
