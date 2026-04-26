@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1695-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2165-smallest-value-of-the-rearranged-number) |
