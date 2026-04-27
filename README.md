@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0326-power-of-three) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0374-guess-number-higher-or-lower) |
