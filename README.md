@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0804-unique-morse-code-words) |
 | [0853-car-fleet](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0969-pancake-sorting) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Noah-Liknaw/Data-structures-and-algorithm-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
